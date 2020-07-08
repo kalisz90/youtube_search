@@ -26,8 +26,7 @@ SECRET_KEY = '-i1pgv(tud+mfgk)9do*mo0pbr_a1%zqyse24^^w@1i)l(vfb+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-#['ytubeappjk.herokuapp.com']
+ALLOWED_HOSTS = ['ytubeappjk.herokuapp.com']
 
 
 # Application definition
